@@ -1,0 +1,3 @@
+3.it created a file named newfile.txt, then ">" copies all the file name in that dir to that newfile.txt file
+5.it says new file: newfile.txt
+6.it shows that new line was added, in a different color
